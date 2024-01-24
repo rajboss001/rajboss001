@@ -1,3 +1,4 @@
+<img src="Dark Neon Simple Futuristic UIUX Designer LinkedIn Banner.png">
 <h1 align="center">Hi 👋, I'm Raj Mutsuddy</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
